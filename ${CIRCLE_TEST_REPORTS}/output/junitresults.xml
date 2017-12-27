@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Authentication Cenarios" timestamp="2017-12-26T16:30:29" hostname="localhost" time="13.003" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="Authentication Cenarios" name="Deve mostrar mensagem se não informar o email" time="4.187" />
+  <testcase classname="Authentication Cenarios" name="Deve mostrar mensagem se email inválido" time="1.594" />
+  <testcase classname="Authentication Cenarios" name="Deve mostrar mensagem se não informar a senha" time="1.653" />
+  <testcase classname="Authentication Cenarios" name="Deve mostrar mensagem credenciais inválidas" time="1.648" />
+  <testcase classname="Authentication Cenarios" name="Deve mostrar mensagem de sucesso se todos os campos sao preenchido corretamente" time="1.97" />
+ </testsuite>
+ <testsuite name="ContactUs Cenarios" timestamp="2017-12-26T16:30:42" hostname="localhost" time="10.118" errors="0" tests="5" skipped="0" disabled="0" failures="0">
+  <testcase classname="ContactUs Cenarios" name="Deve mostrar mensagem se não informar o email" time="4.301" />
+  <testcase classname="ContactUs Cenarios" name="Deve mostrar mensagem se email inválido" time="1.467" />
+  <testcase classname="ContactUs Cenarios" name="Deve mostrar mensagem se mensagem não for informada" time="1.434" />
+  <testcase classname="ContactUs Cenarios" name="Deve mostrar mensagem se assunto não for informada" time="1.44" />
+  <testcase classname="ContactUs Cenarios" name="Deve mostrar mensagem de sucesso se todos os campos sao preenchido corretamente" time="1.476" />
+ </testsuite>
+ <testsuite name="Newsletter Cenarios" timestamp="2017-12-27T13:20:42" hostname="localhost" time="10.118" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Newsletter Cenarios" name="Deve mostrar mensagem se não informar o email" time="4.301" />
+  <testcase classname="Newsletter Cenarios" name="Deve mostrar mensagem se email inválido" time="1.467" />
+  <testcase classname="Newsletter Cenarios" name="Deve mostrar mensagem de sucesso se email é preenchido corretamente" time="1.434" />
+ </testsuite>
+</testsuites>
